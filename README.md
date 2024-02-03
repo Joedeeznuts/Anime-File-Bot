@@ -1,5 +1,3 @@
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Joedeeznuts/Anime-File-Bot
-
 # File-sharing-Bot
 
 <p align="center">
